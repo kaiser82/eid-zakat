@@ -19,7 +19,7 @@ h4 {
     padding-left: 20px;
 }
 .top {
-    background-image: url(/images/cow1.jpg);
+    background-image: url(images/cow1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
